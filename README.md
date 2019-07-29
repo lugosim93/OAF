@@ -1,3 +1,3 @@
 # OAF
 
-Homework assignmant.
+Homework assignment.
